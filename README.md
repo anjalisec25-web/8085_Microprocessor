@@ -1,4 +1,3 @@
-```md
 # 🚀 8085 Microprocessor
 
 A beginner-friendly repository for learning the **8085 Microprocessor**.It contains concise theory notes, diagrams, and assembly language programs,helping students understand the concepts in a simple and organized way.
